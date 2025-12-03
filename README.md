@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-I'm **Noel Paton-og** — an application and web developer passionate about building functional, user-friendly digital experiences. I enjoy crafting clean interfaces and developing reliable backend systems.
+I'm **Desu** — an application and web developer passionate about building functional, user-friendly digital experiences. I enjoy crafting clean interfaces and developing reliable backend systems.
 
 
 ![HTML](https://skillicons.dev/icons?i=html)
